@@ -1,3 +1,4 @@
+![logo](https://github.com/SomnathKhatal23/SomnathKhatal23/blob/main/banner.PNG)
 <h1 align="center">Hi 👋, I'm Somnath Khatal</h1>
 <h3 align="center">A passionate Power BI,Data Analyst, Python, ML developer from India</h3>
 <img align="right" alt="PowerBIng" width="400" src="https://candi.gr/wp-content/uploads/2016/03/analytics-desktop-animated.gif"
